@@ -68,4 +68,10 @@ Help for some of the tasks above:
 
 ## Summary
 
+
+
+https://github.com/jeffschoolaccount/android/assets/133872593/b5c6e27c-5f8d-4617-9652-913af6e0f881
+
+
+
 To actually play around with it, open up Logcat (should be near the bottom as a button, a window will pop out). Now when you run the app and click the dice, you can see the dice rolling and printing in the console. I have provided a video. Your end result should also look something like it. Also, please complete these tasks so we can finish our dice rolling app project. Next time we will make the generated number appear in the app. I strongly discourage watching Youtube Shorts or playing Football Manager 23 during ITDT training. Thanks!
