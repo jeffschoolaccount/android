@@ -77,3 +77,8 @@ Help for some of the tasks above:
 ## Summary
 
 Feel free to ask me during training if you have any questions. I have attached a video demo showing the current progress.
+
+
+https://github.com/jeffschoolaccount/android/assets/133872593/b6c90ad5-e6d5-4a34-8aad-7c34f9e33b99
+
+
